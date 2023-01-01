@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.383" height="21.912" viewBox="0 0 25.383 21.912">
+  <g id="Companies" transform="translate(0 -32)">
+    <g id="Group_19601" data-name="Group 19601" transform="translate(5.689 37.382)">
+      <g id="Group_19597" data-name="Group 19597">
+        <path id="Path_21065" data-name="Path 21065" d="M104.884,131.227h3.878v1.628h-3.878Z" transform="translate(-104.884 -131.227)"/>
+      </g>
+      <g id="Group_19598" data-name="Group 19598" transform="translate(0 3.702)">
+        <path id="Path_21066" data-name="Path 21066" d="M104.884,199.484h3.878v1.628h-3.878Z" transform="translate(-104.884 -199.484)"/>
+      </g>
+      <g id="Group_19599" data-name="Group 19599" transform="translate(0 7.404)">
+        <path id="Path_21067" data-name="Path 21067" d="M104.884,267.74h3.878v1.628h-3.878Z" transform="translate(-104.884 -267.74)"/>
+      </g>
+      <g id="Group_19600" data-name="Group 19600" transform="translate(0 11.106)">
+        <path id="Path_21068" data-name="Path 21068" d="M104.884,336h3.878v1.628h-3.878Z" transform="translate(-104.884 -335.997)"/>
+      </g>
+    </g>
+    <g id="Group_19607" data-name="Group 19607" transform="translate(0 32)">
+      <path id="Path_21069" data-name="Path 21069" d="M13.53,52.284v-13.3l8.5-.01v8.974h1.627V38.156a.822.822,0,0,0-.815-.814l-10.128.012a.814.814,0,0,0-.813.814V52.284H3.352V36.176l8.551-2.3v1.848H13.53v-2.91a.822.822,0,0,0-1.025-.786L2.327,34.765a.814.814,0,0,0-.6.786V52.284H0v1.628H25.383V52.284Z" transform="translate(0 -32)"/>
+      <g id="Group_19602" data-name="Group 19602" transform="translate(22.031 17.411)">
+        <path id="Path_21070" data-name="Path 21070" d="M406.2,353.008h1.627v1.517H406.2Z" transform="translate(-406.2 -353.008)"/>
+      </g>
+      <g id="Group_19606" data-name="Group 19606" transform="translate(15.817 9.084)">
+        <g id="Group_19603" data-name="Group 19603" transform="translate(0 0)">
+          <path id="Path_21071" data-name="Path 21071" d="M291.624,199.484H295.5v1.628h-3.878Z" transform="translate(-291.624 -199.484)"/>
+        </g>
+        <g id="Group_19604" data-name="Group 19604" transform="translate(0 3.702)">
+          <path id="Path_21072" data-name="Path 21072" d="M291.624,267.74H295.5v1.628h-3.878Z" transform="translate(-291.624 -267.74)"/>
+        </g>
+        <g id="Group_19605" data-name="Group 19605" transform="translate(0 7.404)">
+          <path id="Path_21073" data-name="Path 21073" d="M291.624,336H295.5v1.628h-3.878Z" transform="translate(-291.624 -335.997)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
